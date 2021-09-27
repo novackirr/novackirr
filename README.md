@@ -1,1 +1,3 @@
 - 👋 Wassup, I’m @novackirr
+- On Github, I will upload 99% only Python, but there's one trouble...
+- All repositories are now in private mode :C
